@@ -5,7 +5,7 @@
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetUsername?theme=dark&font=baloo&ext=activity&heatmap=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nar3sh?theme=unicorn&font=Noto%20Sans%20Newa&ext=heatmap)
 
 ---
 
