@@ -23,7 +23,7 @@
 ---
 
 ## 🏆 Progress Tracker
-![GitHub Streak](https://streak-stats.demolab.com?user=Naresh-Kumar-Mohanan&theme=radical)
+![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=Naresh-Kumar-Mohanan&theme=tokyonight-duo)](https://git.io/streak-stats))
 
 ---
 
