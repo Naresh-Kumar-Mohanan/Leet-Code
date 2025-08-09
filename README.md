@@ -25,6 +25,3 @@
 ## 🏆 Progress Tracker
 ![GitHub Streak](https://streak-stats.demolab.com?user=Naresh-Kumar-Mohanan&theme=tokyonight-duo)
 ---
-
-**💡 Pro Tip:**  
-You don’t need to update this file manually — every time you solve a problem on LeetCode or push new code to this repo, the stats above will refresh automatically.
